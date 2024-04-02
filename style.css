@@ -1,0 +1,255 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px;
+    height: 100%;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    margin-top: 36px;
+}
+
+.skills__ul {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    font-size: 16px;
+    margin-top: 36px;
+}
+
+.skills__button {
+    gap: 20px;
+    display: flex;
+    margin-top: 20px;
+}
+
+.skilla__button-1 {
+    border: 0;
+    background-color: #fff;
+}
+
+.skills__button-2 {
+    width: 109px;
+    height: 48px;
+    top: 24px;
+    left: 1196px;
+    border-radius: 28px;
+    background-color: blue;
+    border: 0;
+    color: white;
+}
+
+.wrapper-2 {
+    justify-content: space-between;
+    display: flex;
+}
+
+.get-1 {
+    margin-top: 100px;
+}
+
+.get-2 {
+    margin-top: 100px;
+}
+
+.get__h2 {
+    font-size: 64px;
+    line-height: 74px;
+    max-width: 430px;
+}
+
+.get__span {
+    color: #ff5000;
+
+}
+
+.get__p {
+    color: #000000;
+}
+
+.get__button {
+    border: none;
+    width: 140px;
+    height: 56px;
+    top: 514px;
+    left: 135px;
+    border-radius: 33.5px;
+    margin-top: 30px;
+    background-color: blue;
+    color: whitex;
+}
+
+.get__img {
+    width:637.24px;
+    height:661px;
+    top:149px;
+    Left:683.14px;
+}
+
+.ota {
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    width: 487px;
+    height: 123px;
+    top: 642px;
+    left: 135px;
+
+}
+
+
+.bola-1__h3 {
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.bola-1__p {
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.bola-2__h3 {
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.bola-2__p {
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+/* skills-get-end */
+
+.for__ota {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.for__img {
+    width: 520px;
+    height: 706px;
+    top: 2088px;
+}
+
+.for__text {
+
+}
+
+.for__h1 {
+    
+    
+
+}
+
+.for__p {
+    color: gray;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 16px;
+}
+
+.for__img-1 {
+    margin-top: 56px;
+}
+
+.for__img-2 {
+    margin-top: 15px;
+}
+
+.for__button {
+    background-color: #608BFF;
+    border: 0;
+    border-radius: 28px;
+    color: white;
+    padding: 12px 24px 12px 24px;
+    margin-top: 48px;
+}
+
+/* build-start */
+
+.build__ota {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+}
+
+.build__h2 {
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 55px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.build__p-1 {
+    margin-top: 16px;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.build__p-2 {
+    margin-top: 16px;
+}
+
+.build__btn {
+    margin-top: 48px;
+    width:  141px;
+    height:  48px;
+    top: 3705px;
+    left: 135px;
+    padding: 12px, 24px, 12px, 24px;
+    border-radius: 28px;
+    gap: 10px;
+    border: 0;
+    background-color: #608BFF;
+    color: white;
+}
+
+.build__img {
+    width: 434px;
+    height: 481px;
+    top: 3306px;
+    left: 771px;
+}
